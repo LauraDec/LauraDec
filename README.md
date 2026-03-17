@@ -1,15 +1,18 @@
 ## About Me
 - 🐬 Hi, I’m Laura DeCarli!
-- 👀 I’m interested in writing stories and making videogames
+- 👀 I'm a game designer and producer interested both in videogames and boardgames. My main area of interest is gameplay design, but I also enjoy level design and UX design and research. I also dabble in audio editing and pixelart for the games projects I work on.
 - 📓 Digital Portfolio: https://www.lauradecarli.com/
 - 🎓 Bachelor of [Communication, Media and Advertising](https://www.iulm.it/en/offerta-formativa/corsi-di-lauree-triennali/comunicazione-media-pubblicita/comunicazione-media-pubblicita) at [IULM University of Milan](https://www.iulm.it/en/iulm#chi-siamo)
 - 📜 Online course in Game Design at [Digital Bros Game Academy Online Blended](https://dbgameacademy.it/online-blended-game-design/)
-- 🎓 I'm currently studying: [Master's programme in Games (Design Track) at the IT University of Copenhagen](https://en.itu.dk/Programmes/MSc-Programmes/Games)
+- 🎓 MSc of [Games (Design Track)](https://en.itu.dk/Programmes/MSc-Programmes/Games) at the [IT University of Copenhagen](https://en.itu.dk/)
 
 ## Academic Writing
 - 📚 Bachelor's Thesis: [_The player as co-narrator: This War of Mine, a case study_](https://digger.iulm.it/permalink/39IUL_INST/1vu6krd/alma992565045304206)
+- Master's Thesis: [_The practical role and application of Cooperative Game Design Principles in game design processes_](https://drive.google.com/file/d/1sMvOK6bJw8WJHMy4J2rEqSKYHORGbeRw/view)
 
 ## Videogame Projects
+- 🧙‍♂️ Thesis project with Quattro Gatti-Coded Crossing made for for ITU's MSc in Games (Design Track): [_Back&Forth_](https://lauradec.itch.io/backforth)
+- 💡 Group project with WATT?!! Playhouse Production made for for ITU's MSc in Games (Design Track) course Making Games: [_Blulb's Escape_](https://thimh.itch.io/bulbs-escape)
 - 👾 Group Project with [QizueTeam](https://github.com/Qizue-Team) made for DBGA's online course in Game Design: [_Goldash_](https://pokedev.itch.io/goldash)
 - 🎃 A little game made for the [2022 edition of the One Minute Game Jam](https://itch.io/jam/one-minute-game-jam-8): [_Pumpking!_](https://acemoisan.itch.io/pumpking)
 
