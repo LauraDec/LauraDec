@@ -7,8 +7,8 @@
 - 📜 Online course in Game Design at [Digital Bros Game Academy Online Blended](https://dbgameacademy.it/online-blended-game-design/)
 
 ## Academic Writing
+- 📚 Master's Thesis: [_The practical role and application of Cooperative Game Design Principles in game design processes_](https://drive.google.com/file/d/1sMvOK6bJw8WJHMy4J2rEqSKYHORGbeRw/view)
 - 📚 Bachelor's Thesis: [_The player as co-narrator: This War of Mine, a case study_](https://digger.iulm.it/permalink/39IUL_INST/1vu6krd/alma992565045304206)
-- Master's Thesis: [_The practical role and application of Cooperative Game Design Principles in game design processes_](https://drive.google.com/file/d/1sMvOK6bJw8WJHMy4J2rEqSKYHORGbeRw/view)
 
 ## Videogame Projects
 - 🧙‍♂️ Thesis project with Quattro Gatti-Coded Crossing made for for ITU's MSc in Games (Design Track): [_Back&Forth_](https://lauradec.itch.io/backforth)
